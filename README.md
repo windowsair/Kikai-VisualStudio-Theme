@@ -1,7 +1,7 @@
 # Kikai Theme
 
-![mark](http://img.a-b.ren/img/20190127/yAwyLmDpVQbQ.png)
 
+<p align="center"><img src="http://img.a-b.ren/img/20190127/yAwyLmDpVQbQ.png" alt="Kikai" /></p>
 
 ## Usage
 
