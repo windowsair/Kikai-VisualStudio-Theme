@@ -9,6 +9,15 @@
       <FontsAndColors Version="2.0">
         <Theme Id="{DE3DBBCD-F642-433C-8353-8F1DF4370ABA}"/>
         <Categories>
+          <Category GUID="{58E96763-1D3B-4E05-B6BA-FF7115FD0B7B}" FontName="Consolas" FontSize="9" CharSet="1" FontIsDefault="No">
+            <Items>
+              <Item Name="Visible Whitespace" Foreground="0x00342C28" Background="0x01000018" BoldFont="No"/>
+              <Item Name="Indicator Margin" Foreground="0x02000000" Background="0x00342C28" BoldFont="No"/>
+              <Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x00636363" BoldFont="No"/>
+              <Item Name="Selected Text" Foreground="0x02000000" Background="0x006B6B6B" BoldFont="No"/>
+              <Item Name="Plain Text" Foreground="0x00B9B9B9" Background="0x00342C28" BoldFont="No"/>
+            </Items>
+          </Category>
           <Category GUID="{B36B0228-DBAD-4DB0-B9C7-2AD3E572010F}" FontName="Microsoft YaHei UI" FontSize="9" CharSet="1" FontIsDefault="No">
             <Items>
               <Item Name="Odd Row Items" Foreground="0x00000000" Background="0x00FFFFFF" BoldFont="No"/>
@@ -20,11 +29,6 @@
               <Item Name="Different content" Foreground="0x000014E5" Background="0x00FFFFFF" BoldFont="No"/>
             </Items>
           </Category>
-          <Category GUID="{FA937F7B-C0D2-46B8-9F10-A7A92642B384}" FontIsDefault="Yes">
-            <Items>
-              <Item Name="Artboard Background" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
-            </Items>
-          </Category>
           <Category GUID="{FF349800-EA43-46C1-8C98-878E78F46501}" FontName="Consolas" FontSize="9" CharSet="1" FontIsDefault="No">
             <Items>
               <Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x00858585" BoldFont="No"/>
@@ -33,13 +37,9 @@
               <Item Name="syntax error" Foreground="0x00756CFF" Background="0x01000018" BoldFont="No"/>
             </Items>
           </Category>
-          <Category GUID="{58E96763-1D3B-4E05-B6BA-FF7115FD0B7B}" FontName="Consolas" FontSize="9" CharSet="1" FontIsDefault="No">
+          <Category GUID="{FA937F7B-C0D2-46B8-9F10-A7A92642B384}" FontIsDefault="Yes">
             <Items>
-              <Item Name="Visible Whitespace" Foreground="0x00342C28" Background="0x01000018" BoldFont="No"/>
-              <Item Name="Indicator Margin" Foreground="0x02000000" Background="0x00342C28" BoldFont="No"/>
-              <Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x00636363" BoldFont="No"/>
-              <Item Name="Selected Text" Foreground="0x02000000" Background="0x006B6B6B" BoldFont="No"/>
-              <Item Name="Plain Text" Foreground="0x00B9B9B9" Background="0x00342C28" BoldFont="No"/>
+              <Item Name="Artboard Background" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
             </Items>
           </Category>
           <Category GUID="{E0187991-B458-4F7E-8CA9-42C9A573B56C}" FontName="Consolas" FontSize="9" CharSet="1" FontIsDefault="No">
@@ -75,6 +75,8 @@
               <Item Name="XML Doc Tag" Foreground="0x00ABABAB" Background="0x02000000" BoldFont="No"/>
               <Item Name="XML Doc Comment" Foreground="0x0042B065" Background="0x02000000" BoldFont="No"/>
               <Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x02000000" Background="0x00636363" BoldFont="No"/>
+              <Item Name="CppStringDelimiterCharacterSyntacticTokenFormat" Foreground="0x0074DBE6" Background="0x01000001" BoldFont="No"/>
+              <Item Name="CppControlKeywordSyntacticTokenFormat" Foreground="0x007226F9" Background="0x01000001" BoldFont="No"/>
               <Item Name="C/C++ User Keywords" Foreground="0x007226F9" Background="0x01000001" BoldFont="No"/>
               <Item Name="CppNewDeleteSemanticTokenFormat" Foreground="0x007226F9" Background="0x01000001" BoldFont="No"/>
               <Item Name="CppMemberOperatorSemanticTokenFormat" Foreground="0x007226F9" Background="0x01000001" BoldFont="No"/>
