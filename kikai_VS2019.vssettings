@@ -99,6 +99,10 @@
               <Item Name="CppGlobalVariableSemanticTokenFormat" Foreground="0x00FFBD89" Background="0x02000000" BoldFont="No"/>
               <Item Name="CppEnumSemanticTokenFormat" Foreground="0x00E3BE3B" Background="0x02000000" BoldFont="No"/>
               <Item Name="CppMacroSemanticTokenFormat" Foreground="0x00EA80D5" Background="0x02000000" BoldFont="No"/>
+              <Item Name="deltadiff.add.word" Foreground="0x002E9E7A" Background="0x00217459" BoldFont="No"/>
+              <Item Name="deltadiff.remove.word" Foreground="0x0058438F" Background="0x00342755" BoldFont="No"/>
+              <Item Name="deltadiff.add.line" Foreground="0x01000000" Background="0x00195642" BoldFont="No"/>
+              <Item Name="deltadiff.remove.line" Foreground="0x01000000" Background="0x00342755" BoldFont="No"/>
               <Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x00636363" BoldFont="No"/>
               <Item Name="Selected Text" Foreground="0x02000000" Background="0x006B6B6B" BoldFont="No"/>
               <Item Name="urlformat" Foreground="0x00C79999" Background="0x02000000" BoldFont="No"/>
@@ -131,12 +135,12 @@
               <Item Name="HTML Comment" Foreground="0x0042B065" Background="0x02000000" BoldFont="No"/>
               <Item Name="HTML Attribute Value" Foreground="0x00FFBD89" Background="0x02000000" BoldFont="No"/>
               <Item Name="HTML Attribute" Foreground="0x0091C9FD" Background="0x02000000" BoldFont="No"/>
-              <Item Name="CSS String Value" Foreground="0x00FF7F00" Background="0x02000000" BoldFont="No"/>
-              <Item Name="CSS Property Value" Foreground="0x00FF7800" Background="0x02000000" BoldFont="No"/>
-              <Item Name="CSS Property Name" Foreground="0x00003DFF" Background="0x02000000" BoldFont="No"/>
-              <Item Name="CSS Selector" Foreground="0x00043DF1" Background="0x02000000" BoldFont="No"/>
-              <Item Name="CSS Keyword" Foreground="0x00FF8B00" Background="0x02000000" BoldFont="No"/>
-              <Item Name="CSS Comment" Foreground="0x0042B065" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CSS String Value" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CSS Property Value" Foreground="0x00FB76B7" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CSS Property Name" Foreground="0x00FFBD89" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CSS Selector" Foreground="0x002EE274" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CSS Keyword" Foreground="0x007226F9" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CSS Comment" Foreground="0x009B9B9B" Background="0x02000000" BoldFont="No"/>
             </Items>
           </Category>
         </Categories>
