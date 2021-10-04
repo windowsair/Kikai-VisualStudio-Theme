@@ -63,6 +63,9 @@
               <Item Name="XAML Comment" Foreground="0x0042B065" Background="0x02000000" BoldFont="No"/>
               <Item Name="XAML Delimiter" Foreground="0x00DBBA00" Background="0x02000000" BoldFont="No"/>
               <Item Name="XAML Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+              <Item Name="Memory Address" Foreground="0x00929292" Background="0x01000001" BoldFont="No"/>
+              <Item Name="Memory Changed" Foreground="0x007226F9" Background="0x00FFFFFF" BoldFont="No"/>
+              <Item Name="Memory Data" Foreground="0x00EAEAEA" Background="0x01000001" BoldFont="No"/>
               <Item Name="Number" Foreground="0x00FF81AE" Background="0x02000000" BoldFont="No"/>
               <Item Name="String" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="No"/>
               <Item Name="Identifier" Foreground="0x00DEDEDE" Background="0x02000000" BoldFont="No"/>
@@ -99,6 +102,7 @@
               <Item Name="CppGlobalVariableSemanticTokenFormat" Foreground="0x00FFBD89" Background="0x02000000" BoldFont="No"/>
               <Item Name="CppEnumSemanticTokenFormat" Foreground="0x00E3BE3B" Background="0x02000000" BoldFont="No"/>
               <Item Name="CppMacroSemanticTokenFormat" Foreground="0x00EA80D5" Background="0x02000000" BoldFont="No"/>
+              <Item Name="InstructionLineClassificationFormat" Foreground="0x00EAEAEA" Background="0x01000001" BoldFont="No"/>
               <Item Name="deltadiff.add.word" Foreground="0x002E9E7A" Background="0x00217459" BoldFont="No"/>
               <Item Name="deltadiff.remove.word" Foreground="0x0058438F" Background="0x00342755" BoldFont="No"/>
               <Item Name="deltadiff.add.line" Foreground="0x01000000" Background="0x00195642" BoldFont="No"/>
