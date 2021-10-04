@@ -94,7 +94,7 @@
               <Item Name="CppMemberFunctionSemanticTokenFormat" Foreground="0x00FFBD89" Background="0x02000000" BoldFont="No"/>
               <Item Name="CppFunctionSemanticTokenFormat" Foreground="0x002EE2A6" Background="0x02000000" BoldFont="No"/>
               <Item Name="CppTypeSemanticTokenFormat" Foreground="0x00FFBD89" Background="0x02000000" BoldFont="No"/>
-              <Item Name="CppParameterSemanticTokenFormat" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppParameterSemanticTokenFormat" Foreground="0x00FFFFFF" Background="0x00342C28" BoldFont="No"/>
               <Item Name="CppLocalVariableSemanticTokenFormat" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
               <Item Name="CppGlobalVariableSemanticTokenFormat" Foreground="0x00FFBD89" Background="0x02000000" BoldFont="No"/>
               <Item Name="CppEnumSemanticTokenFormat" Foreground="0x00E3BE3B" Background="0x02000000" BoldFont="No"/>
